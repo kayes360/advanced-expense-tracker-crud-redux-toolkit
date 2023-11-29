@@ -29,6 +29,7 @@ export default function Form() {
       };
  
       dispatch(updateTransaction({ id: editing?.id, updateFromData }));
+      dispatch(fetchTransactions());
       setEditMode(false)
     } else {
       const updateFromData = {

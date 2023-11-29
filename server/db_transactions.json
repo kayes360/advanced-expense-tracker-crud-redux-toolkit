@@ -1,16 +1,16 @@
 {
   "transactions": [
     {
-      "name": "Gary",
-      "type": "Income",
-      "amount": "23",
-      "id": 1
-    },
-    {
       "name": "Jasper Rojas",
       "type": "Income",
       "amount": 3,
       "id": 2
+    },
+    {
+      "name": "Oren Mcdaniel",
+      "type": "Income",
+      "amount": 55,
+      "id": 3
     }
   ]
 }
